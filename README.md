@@ -16,5 +16,6 @@ Once the layout was clear, I implemented the category system, allowing users to 
 After that, I added the shopping cart logic, and when everything was right to me, I implemented some animations to make it look cleaner.
 
 ## Instructions to local run the website
-If its the first time using react is important to have an actual version of Node.js. Then, to install all the necessary files use npm-install. After that, use npm install react-icons.
+If its the first time using react is important to have an actual version of Node.js. Secondly, download the .zip file and then, will be shown the LICENSE, README.md and tourism_web.zip. Open the last one and open a terminal.
+Then, to install all the necessary files use npm-install. After that, use npm install react-icons.
 Also, as I've used the Carousel animation and the Audio Container, is very important to use npm install motion. Then, when everything is correctly done, npm start to see it at your Web Browser. 
